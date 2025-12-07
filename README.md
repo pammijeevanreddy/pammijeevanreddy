@@ -1,4 +1,4 @@
-# Hey, I'm Jeevan!  
+# Hey, I'm Pammi Jeevan Reddy!  
 ### Data Analyst | SQL | Python | EDA | Visualization  
 
 I'm passionate about turning raw data into meaningful insights using  
