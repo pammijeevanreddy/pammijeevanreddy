@@ -87,5 +87,5 @@ I love building real-world analytics projects, dashboards, and solving business 
 ---
 
 ## Open to Opportunities  
-I'm actively looking for **Data Analyst**  **Business Analyst**.  
+I'm actively looking for **Data Analyst** and **Business Analyst**.  
 If you're hiring or have a project in mind — let’s connect!
